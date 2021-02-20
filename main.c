@@ -64,19 +64,19 @@ int main(){
         encontraVotos(escolha);
     }
 
-    if ((opcao1 > opcao2) && (opcao1 > opcao3) && (opcao1 > opcao4){
+    if ((opcao1 > opcao2) && (opcao1 > opcao3) && (opcao1 > opcao4)){
         printf("Opcao 1 venceu ");
     }
 
-    if ((opcao2 > opcao1) && (opcao2 > opcao3) && (opcao2 > opcao4){
+    if ((opcao2 > opcao1) && (opcao2 > opcao3) && (opcao2 > opcao4)){
         printf("Opcao 2 venceu ");
     }
 
-    if ((opcao3 > opcao1) && (opcao3 > opcao2) && (opcao3 > opcao4){
+    if ((opcao3 > opcao1) && (opcao3 > opcao2) && (opcao3 > opcao4)){
         printf("Opcao 3 venceu ");
     }
 
-    if ((opcao4 > opcao1) && (opcao4 > opcao2) && (opcao4 > opcao3){
+    if ((opcao4 > opcao1) && (opcao4 > opcao2) && (opcao4 > opcao3)){
         printf("Opcao 4 venceu ");
     }
 
